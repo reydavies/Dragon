@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 73366615de7f75b4382604ddb9c2c8b7
+timeCreated: 1514317772
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - gripTransform: {instanceID: 0}
+  - weaponPrefab: {instanceID: 0}
+  - attackAnimation: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

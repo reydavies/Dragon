@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 76740a5fdd735b94b893f7bdc8ccfb51
+timeCreated: 1513697955
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - weaponConfig: {fileID: 11400000, guid: cafb9c30c4dad6848bb27a1e7c50e42e, type: 2}
+  - pickUpSFX: {fileID: 8300000, guid: 7c194517d2195ca4bad6da6688ee4190, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

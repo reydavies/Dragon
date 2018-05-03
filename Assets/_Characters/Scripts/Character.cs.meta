@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: b3c9d30df296bef47ab3d5b25d56392a
+timeCreated: 1513642763
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - animatorController: {fileID: 9100000, guid: e2cf68ff4b1ffda45a77f7307dd789b9,
+      type: 2}
+  - animatorOverrideController: {fileID: 22100000, guid: 352fc86ece1d2304aa70b303db298169,
+      type: 2}
+  - characterAvatar: {fileID: 9000000, guid: 9f7ad5c9e279d684191e023bea737eb4, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
